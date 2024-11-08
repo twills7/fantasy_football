@@ -1,0 +1,168 @@
+Christian McCaffrey (Car - RB) 	$77 
+Dalvin Cook (Min - RB) 	$66 
+Clyde Edwards-Helaire (KC - RB) 	$46 
+Aaron Jones (GB - RB) 	$62 
+Alvin Kamara (NO - RB) 	$68 
+Davante Adams (GB - WR) 	$59 
+Jonathan Taylor (Ind - RB) 	$55 
+Ezekiel Elliott (Dal - RB) 	$60 
+Derrick Henry (Ten - RB) 	$71 
+Patrick Mahomes (KC - QB) 	$41 
+Saquon Barkley (NYG - RB) 	$61 
+Tampa Bay (TB - DEF) 	$4 
+Travis Kelce (KC - TE) 	$45 
+Najee Harris (Pit - RB) 	$47 
+Calvin Ridley (Atl - WR) 	$40 
+Antonio Gibson (Was - RB) 	$61 
+Austin Ekeler (LAC - RB) 	$65 
+Tyreek Hill (KC - WR) 	$54 
+Joe Mixon (Cin - RB) 	$44 
+Keenan Allen (LAC - WR) 	$38 
+Nick Chubb (Cle - RB) 	$64 
+Matthew Stafford (LAR - QB) 	$12 
+Stefon Diggs (Buf - WR) 	$54 
+Los Angeles (LAR - DEF) 	$3 
+DK Metcalf (Sea - WR) 	$43 
+Kenny Golladay (NYG - WR) 	$9 
+J.D. McKissic (Was - RB) 	$3 
+DeAndre Hopkins (Ari - WR) 	$48 
+Jalen Hurts (Phi - QB) 	$10 
+CeeDee Lamb (Dal - WR) 	$36 
+J.K. Dobbins (Bal - RB) 	$3 
+Myles Gaskin (Mia - RB) 	$19 
+Justin Jefferson (Min - WR) 	$41 
+Josh Jacobs (LV - RB) 	$19 
+A.J. Brown (Ten - WR) 	$33 
+Washington (Was - DEF) 	$2 
+Darren Waller (LV - TE) 	$30 
+Ja'Marr Chase (Cin - WR) 	$13 
+Allen Robinson II (Chi - WR) 	$25 
+Terry McLaurin (Was - WR) 	$34 
+D'Andre Swift (Det - RB) 	$21 
+Cooper Kupp (LAR - WR) 	$24 
+Travis Etienne (Jax - RB) 	$5 
+Chris Carson (Sea - RB) 	$27 
+David Montgomery (Chi - RB) 	$30 
+DeVonta Smith (Phi - WR) 	$12 
+Darrell Henderson Jr. (LAR - RB) 	$14 
+Pittsburgh (Pit - DEF) 	$1 
+Adam Thielen (Min - WR) 	$15 
+Corey Davis (NYJ - WR) 	$12 
+Michael Gallup (Dal - WR) 	$6 
+Amari Cooper (Dal - WR) 	$21 
+Brandin Cooks (Hou - WR) 	$8 
+Chris Godwin (TB - WR) 	$18 
+Josh Allen (Buf - QB) 	$24 
+George Kittle (SF - TE) 	$31 
+Gus Edwards (Bal - RB) 	$16 
+Damien Harris (NE - RB) 	$12 
+Mike Evans (TB - WR) 	$18 
+Kyler Murray (Ari - QB) 	$14 
+James Robinson (Jax - RB) 	$26 
+Jerry Jeudy (Den - WR) 	$13 
+Mike Gesicki (Mia - TE) 	$9 
+DJ Moore (Car - WR) 	$12 
+Tyler Lockett (Sea - WR) 	$18 
+Robert Woods (LAR - WR) 	$15 
+Lamar Jackson (Bal - QB) 	$15 
+Mike Davis (Atl - RB) 	$18 
+Miles Sanders (Phi - RB) 	$16 
+Gabriel Davis (Buf - WR) 	$2 
+Brandon Aiyuk (SF - WR) 	$12 
+Dak Prescott (Dal - QB) 	$8 
+Aaron Rodgers (GB - QB) 	$12 
+Courtland Sutton (Den - WR) 	$9 
+Leonard Fournette (TB - RB) 	$5 
+Kyle Pitts (Atl - TE) 	$13 
+Marquez Callaway (NO - WR) 	$9 
+Diontae Johnson (Pit - WR) 	$13 
+Julio Jones (Ten - WR) 	$15 
+Chase Edmonds (Ari - RB) 	$10 
+Kareem Hunt (Cle - RB) 	$9 
+Marvin Jones Jr. (Jax - WR) 	$6 
+Mark Andrews (Bal - TE) 	$11 
+T.J. Hockenson (Det - TE) 	$10 
+Tom Brady (TB - QB) 	$6 
+Zach Ertz (Phi - TE) 	$1 
+Tee Higgins (Cin - WR) 	$10 
+Tyler Boyd (Cin - WR) 	$6 
+Odell Beckham Jr. (Cle - WR) 	$7 
+Justin Herbert (LAC - QB) 	$8 
+Ronald Jones II (TB - RB) 	$5 
+Javonte Williams (Den - RB) 	$9 
+Robby Anderson (Car - WR) 	$7 
+Trevor Lawrence (Jax - QB) 	$3 
+Chase Claypool (Pit - WR) 	$5 
+Melvin Gordon III (Den - RB) 	$4 
+San Francisco (SF - DEF) 	$1 
+Russell Wilson (Sea - QB) 	$7 
+Trey Sermon (SF - RB) 	$5 
+James Conner (Ari - RB) 	$4 
+Michael Pittman Jr. (Ind - WR) 	$3 
+Michael Carter (NYJ - RB) 	$7 
+Logan Thomas (Was - TE) 	$3 
+Ryan Tannehill (Ten - QB) 	$2 
+Raheem Mostert (SF - RB) 	$4 
+Justin Fields (Chi - QB) 	$3 
+Jamaal Williams (Det - RB) 	$3 
+Tyler Higbee (LAR - TE) 	$2 
+JuJu Smith-Schuster (Pit - WR) 	$6 
+Will Fuller V (Mia - WR) 	$5 
+Joe Burrow (Cin - QB) 	$2 
+Baltimore (Bal - DEF) 	$1 
+Jaylen Waddle (Mia - WR) 	$2 
+Antonio Brown (TB - WR) 	$3 
+Jakobi Meyers (NE - WR) 	$2 
+Sony Michel (LAR - RB) 	$3 
+Noah Fant (Den - TE) 	$2 
+Zack Moss (Buf - RB) 	$2 
+Deebo Samuel (SF - WR) 	$3 
+AJ Dillon (GB - RB) 	$3 
+Tua Tagovailoa (Mia - QB) 	$2 
+Laviska Shenault Jr. (Jax - WR) 	$1 
+DJ Chark Jr. (Jax - WR) 	$1 
+Denver (Den - DEF) 	$1 
+Robert Tonyan (GB - TE) 	$3 
+Jonnu Smith (NE - TE) 	$2 
+Kenyan Drake (LV - RB) 	$1 
+Darnell Mooney (Chi - WR) 	$1 
+Michael Thomas (NO - WR) 	$2 
+Hunter Henry (NE - TE) 	$1 
+Jarvis Landry (Cle - WR) 	$1 
+Dallas Goedert (Phi - TE) 	$1 
+Curtis Samuel (Was - WR) 	$1 
+Elijah Moore (NYJ - WR) 	$1 
+Mike Williams (LAC - WR) 	$2 
+Evan Engram (NYG - TE) 	$1 
+Matt Ryan (Atl - QB) 	$1 
+Terrace Marshall Jr. (Car - WR) 	$1 
+Devontae Booker (NYG - RB) 	$1 
+Baker Mayfield (Cle - QB) 	$1 
+Jameis Winston (NO - QB) 	$1 
+Zach Wilson (NYJ - QB) 	$1 
+Bryan Edwards (LV - WR) 	$1 
+Gerald Everett (Sea - TE) 	$1 
+Cleveland (Cle - DEF) 	$1 
+Cam Akers (LAR - RB) 	$2 
+Rashod Bateman (Bal - WR) 	$1 
+Eric Ebron (Pit - TE) 	$1 
+Henry Ruggs III (LV - WR) 	$1 
+Rob Gronkowski (TB - TE) 	$1 
+Tevin Coleman (NYJ - RB) 	$1 
+Devin Singletary (Buf - RB) 	$1 
+Nyheim Hines (Ind - RB) 	$1 
+Kansas City (KC - DEF) 	$1 
+Marquise Brown (Bal - WR) 	$1 
+Russell Gage (Atl - WR) 	$1 
+David Johnson (Hou - RB) 	$1 
+Trey Lance (SF - QB) 	$1 
+Chuba Hubbard (Car - RB) 	$1 
+Amon-Ra St. Brown (Det - WR) 	$1 
+Juwan Johnson (NO - WR,TE) 	$1 
+Austin Hooper (Cle - TE) 	$1 
+Rondale Moore (Ari - WR) 	$1 
+Marquez Valdes-Scantling (GB - WR) 	$1 
+Mecole Hardman (KC - WR) 	$1 
+New England (NE - DEF) 	$1 
+Mac Jones (NE - QB) 	$1 
+Green Bay (GB - DEF) 	$1 

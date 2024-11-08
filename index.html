@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Database Interaction</title>
+</head>
+<body>
+    <h1>players List</h1>
+    <ul id="players"></ul>
+
+    <h2>Add a New player</h2>
+    <form id="playerForm">
+        <input type="text" id="name" placeholder="Name" required />
+        <button type="submit">Add player</button>
+    </form>
+
+    <script>
+        // Fetch players and display them
+        async function fetchplayers() {
+            const response = await fetch("http://127.0.0.1:5000/players");
+            const players = await response.json();
+            const playerList = document.getElementById("players");
+            playerList.innerHTML = "";
+            players.forEach(player => {
+                const li = document.createElement("li");
+                li.textContent = `${player.name} - 2022 Price: ${player.price_2022}, 2023 Price: ${player.price_2023}`;
+                playerList.appendChild(li);
+            });
+        }
+
+        // Submit form to add a new player
+        document.getElementById("playerForm").addEventListener("submit", async (e) => {
+            e.preventDefault();
+            const name = document.getElementById("name").value;
+            const age = document.getElementById("age").value;
+            const email = document.getElementById("email").value;
+
+            const response = await fetch("http://127.0.0.1:5000/add_player", {
+                method: "POST",
+                headers: {
+                    "Content-Type": "application/json"
+                },
+                body: JSON.stringify({ name, age, email })
+            });
+
+            if (response.ok) {
+                alert("player added successfully!");
+                fetchplayers();  // Refresh the player list
+            } else {
+                alert("Failed to add player");
+            }
+        });
+
+        // Load players when the page loads
+        fetchplayers();
+    </script>
+</body>
+</html>

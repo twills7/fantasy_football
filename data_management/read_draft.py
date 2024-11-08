@@ -6,6 +6,12 @@ with open('./data_management/data/draft_results2024.txt', 'r') as draft_results:
 with open('./data_management/data/player_prices2023.txt', 'r') as draft_results2023:
     draft_data2023 = draft_results2023.read()
 
+with open('./data_management/data/player_prices2022.txt', 'r') as draft_results2022:
+    draft_data2022 = draft_results2022.read()
+
+with open('./data_management/data/player_prices2021.txt', 'r') as draft_results2021:
+    draft_data2021 = draft_results2021.read()
+
 def get_2024_price(draft_data):
     players = []
 
@@ -59,18 +65,18 @@ def add_to_database(players):
     cursor = connection.cursor()
 
     for player in players:
-        if player.__len__() == 4:
+        if player.__len__() == 6:
             cursor.execute('''
-            INSERT INTO players (name, price_2023, price_2024, team)
-            VALUES (?, ?, ?, ?)
-            ''', (player[0], player[3], player[2], player[1]))
-        else: 
-            cursor.execute('''
-            INSERT INTO players (name, price_2024, team)
-            VALUES (?, ?, ?)
-            ''', (player[0], player[2], player[1]))
+            INSERT INTO players (name, price_2021, price_2022, price_2023, price_2024, team)
+            VALUES (?, ?, ?, ?, ?, ?)
+            ''', (player[0], player[5], player[4], player[3], player[2], player[1]))
 
     connection.commit()
+    # Query data
+    cursor.execute("SELECT * FROM players")
+    rows = cursor.fetchall()
+    for row in rows:
+        print(row)
     connection.close()
 
 def get_2023_price(draft_data2023, players):
@@ -94,9 +100,53 @@ def get_2023_price(draft_data2023, players):
             if player[0] == name:
                 player.append(price)
                 break
+    for player in players:
+        if len(player) != 4:
+            player.append(' ')
         
+def get_2022_price(draft_data2022, players):
+    for line in draft_data2022.split('\n'):
+        name = ""
+        price = ""
+        for item in line:
+            if item == '(':
+                name = name[:-1]
+                break
+            name += item
+        for item in line:
+            if item.isdigit():
+                    price += item
+        for player in players:
+            if player[0] == name:
+                player.append(price)
+                break
+    for player in players:
+        if len(player) != 5:
+            player.append(' ')
+
+def get_2021_price(draft_data2021, players):
+    for line in draft_data2021.split('\n'):
+        name = ""
+        price = ""
+        for item in line:
+            if item == '(':
+                name = name[:-1]
+                break
+            name += item
+        for item in line:
+            if item.isdigit():
+                    price += item
+        for player in players:
+            if player[0] == name:
+                player.append(price)
+                break
+    for player in players:
+        if len(player) != 6:
+            player.append(' ')
 
     
 players = get_2024_price(draft_data)
 get_2023_price(draft_data2023, players)
+get_2022_price(draft_data2022, players)
+get_2021_price(draft_data2021, players)
 add_to_database(players)
