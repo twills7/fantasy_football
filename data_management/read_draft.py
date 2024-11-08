@@ -1,9 +1,9 @@
 import sqlite3
 
-with open('./data/draft_results2024.txt', 'r') as draft_results:
+with open('./data_management/data/draft_results2024.txt', 'r') as draft_results:
 	draft_data = draft_results.read()
 
-with open('./data/player_prices2023.txt', 'r') as draft_results2023:
+with open('./data_management/data/player_prices2023.txt', 'r') as draft_results2023:
     draft_data2023 = draft_results2023.read()
 
 def get_2024_price(draft_data):
@@ -55,7 +55,7 @@ def get_2024_price(draft_data):
     return players
 
 def add_to_database(players):
-    connection = sqlite3.connect("player_base.db")
+    connection = sqlite3.connect("./data_management/player_base.db")
     cursor = connection.cursor()
 
     for player in players:

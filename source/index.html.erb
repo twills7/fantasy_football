@@ -6,5 +6,29 @@ stylesheets:
 ---
 
 <div class="centered-content">
-    
+    <table>
+        <thead>
+            <tr>
+                <th>Player</th>
+                <th>Team</th>
+                <th>Position</th>
+                <th>Points</th>
+            </tr>
+        </thead>
+        <% ActiveRecord::Base.establish_connection(
+            adapter: 'sqlite3',
+            database: 'data_management.sqlite3'
+        ) %>
+        <% @players = Player.all %>
+        <tbody>
+            <% @players.each do |player| %>
+                <tr>
+                    <td><%= player.name %></td>
+                    <td><%= player.team %></td>
+                    <td><%= player.position %></td>
+                    <td><%= player.points %></td>
+                </tr>
+            <% end %>
+        </tbody>
+    </table>
 </div>
