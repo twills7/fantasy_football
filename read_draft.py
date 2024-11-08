@@ -6,7 +6,7 @@ with open('./data/draft_results2024.txt', 'r') as draft_results:
 with open('./data/player_prices2023.txt', 'r') as draft_results2023:
     draft_data2023 = draft_results2023.read()
 
-def read_draft(draft_data):
+def get_2024_price(draft_data):
     players = []
 
     for line in draft_data.split('\n'):
@@ -97,6 +97,6 @@ def get_2023_price(draft_data2023, players):
         
 
     
-players = read_draft(draft_data)
+players = get_2024_price(draft_data)
 get_2023_price(draft_data2023, players)
 add_to_database(players)

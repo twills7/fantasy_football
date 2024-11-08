@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang= "en">
+  <head>
+    <title>
+      <%= "Fantasy Football" %>
+    </title>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="viewport"
+          content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <!-- Use the title from a page's frontmatter if it has one -->
+    <style>
+      /* Hide the page until the CSS is loaded */
+      html {
+        visibility: hidden;
+        opacity: 0;
+      }
+    </style>
+    </head>
+    <body>
+      <%= partial "navigation" %>
+      <main>
+        <%= yield %>
+      </main>
+    </body>
+</html>

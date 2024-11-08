@@ -1,0 +1,21 @@
+/*Style specifically for homepage*/
+p {
+    margin: 5px 0 25px; /* Top margin of 5px, bottom margin of 25px for paragraphs */
+  }
+  
+  p:last-of-type {
+    margin-bottom: 12px; /* Less space below the last paragraph */
+  }
+  
+  aside {
+    width: 160px; /* Set width for the aside section */
+    float: right; /* Float aside to the right of the content */
+    border: solid black 1.5px; /* Black border around the aside */
+    padding: 0 12px; /* Horizontal padding inside the aside */
+    margin: 0 20px 20px; /* Add margin on the right, bottom, and none on top */
+    
+    h3 {
+      font-size: 1rem; /* Set font size for h3 inside aside */
+      margin: 10px 0 0; /* Margin for the h3 heading, 10px on top */
+    }
+  }

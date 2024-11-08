@@ -1,0 +1,207 @@
+:root {
+    scroll-behavior: smooth;
+    --sidebar-width: 225px;
+    --navbar-height: 47px;
+  
+    /* https://bux.osu.edu/color/primary-colors/ */
+    --scarlet: #ba0c2f;
+    --scarlet-dark-40: #70071c;
+    --scarlet-dark-60: #4a0513;
+    
+    --gray-light-90: #f6f7f8;
+    --gray-light-60: #dfe3e5;
+    --gray: #a7b1b7;
+    --gray-dark-20: #868e92;
+    --gray-dark-40: #646a6e;
+    --gray-dark-60: #3f4443;
+    --gray-dark-80: #212325;
+  }
+  
+  body {
+    /* Reset default margins and padding */
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: white; /* White background for the body */
+    color: var(--gray-dark-60); /* Default text color */
+    font-family: -apple-system, BlinkMacSystemFont, "Avenir Next", "Avenir",
+      "Segoe UI", "Lucida Grande", "Helvetica Neue", "Helvetica", "Fira Sans",
+      "Roboto", "Noto", "Droid Sans", "Cantarell", "Oxygen", "Ubuntu",
+      "Franklin Gothic Medium", "Century Gothic", "Liberation Sans", sans-serif;
+    text-align: left;
+  }
+  
+  main {
+    /* Adjust margin based on navbar and sidebar sizes */
+    margin: calc(var(--navbar-height) + 20px) 0 0 var(--sidebar-width);
+  }
+  
+  .centered-content {
+    max-width: 800px; /* Limit content width */
+    margin: 0 auto;
+    padding: 0 32px 48px;
+    text-align: left; 
+    line-height: 1.6; /* Space between lines */
+  }
+  
+  h1 {
+    font-size: 40px; /* Larger title for h1 */
+    margin-bottom: 8px;
+    margin-top: 40px;
+    color: var(--scarlet-dark-40); /* Scarlet color for h1 */
+    text-align: center;
+  }
+  
+  h2, h3, h4, h5, h6 {
+    color: var(--gray-dark-80); /* Darker gray for all headings */
+  }
+  
+  h2 {
+    font-size: 28.8px; /* Font size for h2 */
+    margin-bottom: 16px;
+  }
+  
+  .navbar {
+    ul {
+      /* Navbar container styles */
+      z-index: 1000; /* navbar is on top of other elements */
+      list-style-type: none;
+      margin: 0;
+      padding: 0;
+      overflow: hidden;
+      background-color: var(--scarlet); /* Scarlet background for navbar */
+      position: fixed; /* Fixed at the top */
+      top: 0;
+      left: 0;
+      height: var(--navbar-height); /* Use navbar height variable */
+      width: 100%;
+      margin-top: 0px;
+    }
+  
+    li {
+      float: left;
+  
+      a {
+        display: block;
+        color: white;
+        text-align: center;
+        padding: 14px 16px; /* Space inside navbar links */
+        text-decoration: none;
+      
+  
+        /* Change the link color on hover */
+        &:hover, &:focus {
+          background-color: var(--scarlet-dark-40);
+        }
+        &.current_page {
+          background-color: var(--gray-dark-40); /* Highlight current page link */
+        }
+        &:active {
+          background-color: var(--gray-dark-60);
+        }
+      }
+    }
+  }
+  
+  /* Sidebar styles */
+  .sidebar {
+    z-index: 100; /* Sidebar is on top of other elements but below navbar */
+    position: fixed;
+    left: 0;
+    top: var(--navbar-height); /* Positioned below the navbar */
+    width: var(--sidebar-width); /* Sidebar width */
+    height: calc(100% - var(--navbar-height)); /* Adjust height to account for navbar */
+    overflow-y: auto; /* Scrollable sidebar */
+    background-color: var(--gray-light-90); /* Light gray background */
+    box-shadow: #999 2px 0px 6px; /* Shadow for depth effect */
+    padding-bottom: 20px; /* Add padding for more space at the bottom */
+  
+    .headshot {
+      width: var(--sidebar-width); /* Full width for headshot image */
+    }
+  
+    h2 {
+      margin: 10px;
+      font-size: 1.2rem;
+      text-wrap: balance;
+    }
+  
+    /* Sidebar links */
+    a {
+      display: flex;
+      flex-flow: row nowrap;
+      align-items: center;
+      justify-content: space-between;
+      color: black;
+      padding: 16px;
+      
+      .link-label {
+        flex-grow: 1; /* Let the label take up space */
+        margin-left: 10px;
+      }
+  
+      .link-icon {
+        width: 20px;
+        height: 20px;
+      }
+      
+      /* Links on mouse-over */
+      &:hover, &:active, &:focus {
+        color: white;
+        text-decoration: none;
+        
+        .link-icon {
+          filter: invert(100%); /* Invert icon colors on hover */
+        }
+      }
+      &:hover {
+        background-color: var(--gray-dark-40); /* Dark gray on hover */
+      }
+      &:active, &:focus {
+        background-color: var(--scarlet); /* Scarlet on active or focus */
+      }
+    }
+  }
+  
+  /* Page content */
+  div.content {
+    margin-left: var(--sidebar-width); /* Adjust margin for sidebar */
+    padding: 1px 16px;
+    height: 1000px; /* Set content height */
+  }
+  
+  /* Global link styles */
+  a {
+    color: var(--scarlet); /* Scarlet links */
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline; /* Underline on hover */
+    color: var(--scarlet-dark-40); /* Darker red on hover */
+  }
+  
+  p {
+    margin-bottom: 24px; /* Space between paragraphs */
+  }
+  
+  /* Style lists and list items */
+  ul {
+    padding: 0;
+    list-style-type: none;
+  
+    p {
+      margin: 0;
+      line-height: 1.7;
+    }
+    
+    li:has(p) {
+        margin-bottom: 20px; /* Space between list items with paragraphs */
+    }
+  }
+  
+  
+  html {
+    visibility: visible;
+    opacity: 1;
+  }
