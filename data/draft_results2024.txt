@@ -1,0 +1,180 @@
+1.	Malik Nabers (NYG - WR)	$25	Sillytwilley
+2.	Jalen Hurts (Phi - QB)	$21	Kirk Thuggins
+3.	Justin Jefferson (Min - WR)	$61	Stinkapotomus Jr.
+4.	Caleb Williams (Chi - QB)	$10	Irishink
+5.	Christian McCaffrey (SF - RB)	$68	Sillytwilley
+6.	Travis Kelce (KC - TE)	$41	CTESPN
+7.	Josh Allen (Buf - QB)	$37	Dripfishy
+8.	Cooper Kupp (LAR - WR)	$34	NFL Youngboy
+9.	Kenneth Walker III (Sea - RB)	$29	HAWK TUA
+10.	Mark Andrews (Bal - TE)	$24	Dripfishy
+11.	Jonathan Taylor (Ind - RB)	$52	hot lockett
+12.	Stefon Diggs (Hou - WR)	$15	fields of dreams
+13.	George Pickens (Pit - WR)	$19	CTESPN
+14.	David Njoku (Cle - TE)	$12	Kirk Thuggins
+15.	Saquon Barkley (Phi - RB)	$52	Saquonda Forever
+16.	Davante Adams (NYJ - WR)	$40	hot lockett
+17.	Marvin Harrison Jr. (Ari - WR)	$41	fields of dreams
+18.	Patrick Mahomes (KC - QB)	$18	The Mob
+19.	Bijan Robinson (Atl - RB)	$66	The Mob
+20.	Aaron Jones (Min - RB)	$23	Kirk Thuggins
+21.	Terry McLaurin (Was - WR)	$17	CTESPN
+22.	Dalton Schultz (Hou - TE)	$4	NFL Youngboy
+23.	CeeDee Lamb (Dal - WR)	$57	NFL Youngboy
+24.	Tyreek Hill (Mia - WR)	$70	HAWK TUA
+25.	Keenan Allen (Chi - WR)	$10	fields of dreams
+26.	Josh Jacobs (GB - RB)	$32	CTESPN
+27.	Mike Evans (TB - WR)	$20	fields of dreams
+28.	Derrick Henry (Bal - RB)	$54	NFL Youngboy
+29.	Najee Harris (Pit - RB)	$18	Stinkapotomus Jr.
+30.	Jahmyr Gibbs (Det - RB)	$53	Stinkapotomus Jr.
+31.	Amari Cooper (Buf - WR)	$36	Saquonda Forever
+32.	Rhamondre Stevenson (NE - RB)	$22	Irishink
+33.	Keon Coleman (Buf - WR)	$10	hot lockett
+34.	Joe Mixon (Hou - RB)	$38	The Mob
+35.	Rome Odunze (Chi - WR)	$8	Kirk Thuggins
+36.	George Kittle (SF - TE)	$16	Sillytwilley
+37.	Diontae Johnson (Bal - WR)	$8	Irishink
+38.	Ezekiel Elliott (Dal - RB)	$14	hot lockett
+39.	Tee Higgins (Cin - WR)	$23	Saquonda Forever
+40.	Kyler Murray (Ari - QB)	$8	NFL Youngboy
+41.	Zack Moss (Cin - RB)	$16	hot lockett
+42.	Jerome Ford (Cle - RB)	$9	The Mob
+43.	Chris Godwin (TB - WR)	$11	HAWK TUA
+44.	Nick Chubb (Cle - RB)	$14	fields of dreams
+45.	Austin Ekeler (Was - RB)	$13	hot lockett
+46.	Evan Engram (Jax - TE)	$19	HAWK TUA
+47.	Jaxon Smith-Njigba (Sea - WR)	$12	HAWK TUA
+48.	DeAndre Hopkins (KC - WR)	$8	Sillytwilley
+49.	Dak Prescott (Dal - QB)	$6	Stinkapotomus Jr.
+50.	Zach Ertz (Was - TE)	$1	Kirk Thuggins
+51.	Jayden Daniels (Was - QB)	$16	Kirk Thuggins
+52.	David Montgomery (Det - RB)	$23	Dripfishy
+53.	Justin Tucker (Bal - K)	$2	Irishink
+54.	Blake Corum (LAR - RB)	$5	Irishink
+55.	Courtland Sutton (Den - WR)	$5	CTESPN
+56.	James Conner (Ari - RB)	$18	Saquonda Forever
+57.	Rico Dowdle (Dal - RB)	$3	Sillytwilley
+58.	Cole Kmet (Chi - TE)	$3	Kirk Thuggins
+59.	Xavier Worthy (KC - WR)	$7	Stinkapotomus Jr.
+60.	Jordan Addison (Min - WR)	$14	Kirk Thuggins
+61.	Matthew Stafford (LAR - QB)	$4	Saquonda Forever
+62.	Harrison Butker (KC - K)	$2	fields of dreams
+63.	Jayden Reed (GB - WR)	$12	Irishink
+64.	Jonathon Brooks (Car - RB)	$15	CTESPN
+65.	Brock Bowers (LV - TE)	$8	Irishink
+66.	Zach Charbonnet (Sea - RB)	$10	Irishink
+67.	Hollywood Brown (KC - WR)	$6	HAWK TUA
+68.	Trey Benson (Ari - RB)	$9	Stinkapotomus Jr.
+69.	Curtis Samuel (Buf - WR)	$6	Kirk Thuggins
+70.	T.J. Hockenson (Min - TE)	$5	Dripfishy
+71.	Malachi Corley (NYJ - WR)	$7	Irishink
+72.	Joshua Palmer (LAC - WR)	$3	Saquonda Forever
+73.	Ty Chandler (Min - RB)	$8	Kirk Thuggins
+74.	Tyjae Spears (Ten - RB)	$15	Stinkapotomus Jr.
+75.	Tyrone Tracy Jr. (NYG - RB)	$5	NFL Youngboy
+76.	J.K. Dobbins (LAC - RB)	$6	The Mob
+77.	Chuba Hubbard (Car - RB)	$9	Dripfishy
+78.	Ladd McConkey (LAC - WR)	$8	Stinkapotomus Jr.
+79.	Antonio Gibson (NE - RB)	$1	fields of dreams
+80.	Jaylen Wright (Mia - RB)	$6	fields of dreams
+81.	Jameson Williams (Det - WR)	$6	The Mob
+82.	New York (NYJ - DEF)	$3	Irishink
+83.	Romeo Doubs (GB - WR)	$3	The Mob
+84.	Kendre Miller (NO - RB)	$6	HAWK TUA
+85.	Kirk Cousins (Atl - QB)	$3	Saquonda Forever
+86.	Jared Goff (Det - QB)	$6	NFL Youngboy
+87.	Khalil Shakir (Buf - WR)	$8	Saquonda Forever
+88.	Dallas (Dal - DEF)	$4	The Mob
+89.	Brian Thomas Jr. (Jax - WR)	$6	Dripfishy
+90.	Tyler Allgeier (Atl - RB)	$3	fields of dreams
+91.	Xavier Legette (Car - WR)	$5	CTESPN
+92.	Tyler Lockett (Sea - WR)	$3	hot lockett
+93.	Rashid Shaheed (NO - WR)	$1	Dripfishy
+94.	Trevor Lawrence (Jax - QB)	$4	The Mob
+95.	Ka'imi Fairbairn (Hou - K)	$1	Saquonda Forever
+96.	Pat Freiermuth (Pit - TE)	$7	NFL Youngboy
+97.	Younghoe Koo (Atl - K)	$1	The Mob
+98.	Miami (Mia - DEF)	$1	hot lockett
+99.	Samaje Perine (KC - RB)	$1	CTESPN
+100.	Mike Williams (Pit - WR)	$5	fields of dreams
+101.	Bucky Irving (TB - RB)	$2	Sillytwilley
+102.	Buffalo (Buf - DEF)	$2	CTESPN
+103.	Jaleel McLaughlin (Den - RB)	$3	fields of dreams
+104.	Baker Mayfield (TB - QB)	$1	HAWK TUA
+105.	San Francisco (SF - DEF)	$3	Saquonda Forever
+106.	Brandin Cooks (Dal - WR)	$1	NFL Youngboy
+107.	AJ Dillon (GB - RB)	$1	hot lockett
+108.	Tyler Bass (Buf - K)	$1	CTESPN
+109.	Cleveland (Cle - DEF)	$2	NFL Youngboy
+110.	Adonai Mitchell (Ind - WR)	$1	Sillytwilley
+111.	Kansas City (KC - DEF)	$2	fields of dreams
+112.	Justin Herbert (LAC - QB)	$4	Sillytwilley
+113.	Chicago (Chi - DEF)	$1	HAWK TUA
+114.	Jake Elliott (Phi - K)	$2	HAWK TUA
+115.	Jerry Jeudy (Cle - WR)	$1	Sillytwilley
+116.	Philadelphia (Phi - DEF)	$1	Stinkapotomus Jr.
+117.	Ricky Pearsall (SF - WR)	$3	Dripfishy
+118.	Jason Sanders (Mia - K)	$1	hot lockett
+119.	Kimani Vidal (LAC - RB)	$1	Sillytwilley
+120.	Jake Moody (SF - K)	$1	Stinkapotomus Jr.
+121.	MarShawn Lloyd (GB - RB)	$1	Dripfishy
+122.	Jakobi Meyers (LV - WR)	$1	Stinkapotomus Jr.
+123.	Evan McPherson (Cin - K)	$1	Dripfishy
+124.	Christian Watson (GB - WR)	$1	Stinkapotomus Jr.
+125.	Isiah Pacheco (KC - RB) 	$21	HAWK TUA
+126.	Tony Pollard (Ten - RB) 	$5	HAWK TUA
+127.	Rachaad White (TB - RB) 	$3	HAWK TUA
+128.	Calvin Ridley (Ten - WR) 	$3	HAWK TUA
+129.	Tua Tagovailoa (Mia - QB) 	$8	HAWK TUA
+130.	Anthony Richardson (Ind - QB) 	$14	fields of dreams
+131.	Trey McBride (Ari - TE) 	$2	fields of dreams
+132.	A.J. Brown (Phi - WR) 	$62	fields of dreams
+133.	Zamir White (LV - RB) 	$2	Saquonda Forever
+134.	Raheem Mostert (Mia - RB) 	$6	Saquonda Forever
+135.	Sam LaPorta (Det - TE) 	$5	Saquonda Forever
+136.	Javonte Williams (Den - RB) 	$3	Saquonda Forever
+137.	Chris Olave (NO - WR) 	$30	Saquonda Forever
+138.	Josh Downs (Ind - WR) 	$2	hot lockett
+139.	Dallas Goedert (Phi - TE) 	$5	hot lockett
+140.	DeVonta Smith (Phi - WR) 	$18	hot lockett
+141.	Brandon Aiyuk (SF - WR) 	$21	hot lockett
+142.	Brock Purdy (SF - QB) 	$2	hot lockett
+143.	Baltimore (Bal - DEF) 	$2	Kirk Thuggins
+144.	DK Metcalf (Sea - WR) 	$36	Kirk Thuggins
+145.	D'Andre Swift (Chi - RB) 	$24	Kirk Thuggins
+146.	Adam Thielen (Car - WR) 	$2	Kirk Thuggins
+147.	Deebo Samuel Sr. (SF - WR) 	$12	Kirk Thuggins
+148.	Christian Kirk (Jax - WR) 	$5	The Mob
+149.	Nico Collins (Hou - WR) 	$2	The Mob
+150.	Dalton Kincaid (Buf - TE) 	$8	The Mob
+151.	Chase Brown (Cin - RB) 	$2	The Mob
+152.	Drake London (Atl - WR) 	$23	The Mob
+153.	De'Von Achane (Mia - RB) 	$17	Dripfishy
+154.	Jaylen Waddle (Mia - WR) 	$8	Dripfishy
+155.	Travis Etienne Jr. (Jax - RB) 	$18	Dripfishy
+156.	Puka Nacua (LAR - WR) 	$2	Dripfishy
+157.	Ja'Marr Chase (Cin - WR) 	$45	Dripfishy
+158.	Brian Robinson Jr. (Was - RB) 	$3	Stinkapotomus Jr.
+159.	Kyle Pitts (Atl - TE) 	$14	Stinkapotomus Jr.
+160.	Gus Edwards (LAC - RB) 	$2	Stinkapotomus Jr.
+161.	Zay Flowers (Bal - WR) 	$14	Irishink
+162.	Jake Ferguson (Dal - TE) 	$2	Irishink
+163.	Breece Hall (NYJ - RB) 	$44	Irishink
+164.	Garrett Wilson (NYJ - WR) 	$8	Irishink
+165.	Lamar Jackson (Bal - QB) 	$35	Irishink
+166.	Joe Burrow (Cin - QB) 	$8	CTESPN
+167.	Tank Dell (Hou - WR) 	$2	CTESPN
+168.	Kyren Williams (LAR - RB) 	$2	CTESPN
+169.	Amon-Ra St. Brown (Det - WR) 	$48	CTESPN
+170.	Jordan Love (GB - QB) 	$2	CTESPN
+171.	Brandon Aubrey (Dal - K) 	$2	NFL Youngboy
+172.	Noah Brown (Was - WR) 	$2	NFL Youngboy
+173.	Devin Singletary (NYG - RB) 	$2	NFL Youngboy
+174.	Jaylen Warren (Pit - RB) 	$8	NFL Youngboy
+175.	Rashee Rice (KC - WR) 	$2	NFL Youngboy
+176.	Michael Pittman Jr. (Ind - WR) 	$12	Sillytwilley
+177.	Alvin Kamara (NO - RB) 	$24	Sillytwilley
+178.	James Cook (Buf - RB) 	$3	Sillytwilley
+179.	DJ Moore (Chi - WR) 	$30	Sillytwilley
+180.	C.J. Stroud (Hou - QB) 	$2	Sillytwilley

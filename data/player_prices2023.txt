@@ -1,0 +1,382 @@
+Jalen Hurts	20
+ Phi - QB No new player Notes	
+Mike Evans	13
+ TB - WR Player Note	
+Chris Olave	20
+ NO - WR NA Player Note	
+Christian McCaffrey	68
+ SF - RB No new player Notes	
+Javonte Williams	2
+ Den - RB Player Note	
+Sam LaPorta	3
+ Det - TE Player Note	
+Jonathan Taylor	40
+ Ind - RB No new player Notes	
+Raheem Mostert	4
+ Mia - RB No new player Notes	
+Josh Jacobs	23
+ GB - RB New Player Note	
+Courtland Sutton	5
+ Den - WR No new player Notes	
+Dalton Schultz	1
+ Hou - TE No new player Notes	
+Roschon Johnson	1
+ Chi - RB Player Note	
+Zamir White	1
+ LV - RB Player Note	
+Evan McPherson	3
+ Cin - K No new player Notes	
+Las Vegas	-
+ LV - DEF No new player Notes	
+Josh Allen	33
+ Buf - QB No new player Notes	
+Ja'Marr Chase	30
+ Cin - WR Player Note	
+Puka Nacua	-
+ LAR - WR No new player Notes	
+Travis Etienne Jr.	12
+ Jax - RB No new player Notes	
+Alvin Kamara	16
+ NO - RB No new player Notes	
+Pat Freiermuth	3
+ Pit - TE No new player Notes	
+Michael Pittman Jr.	8
+ Ind - WR No new player Notes	
+Jaylen Waddle	5
+ Mia - WR No new player Notes	
+Rashid Shaheed	-
+ NO - WR Q New Player Note	
+T.J. Hockenson	17
+ Min - TE PUP-P Player Note	
+Bryce Young	-
+ Car - QB No new player Notes	
+Aaron Jones	37
+ Min - RB No new player Notes	
+Dustin Hopkins	-
+ Cle - K No new player Notes	
+Kansas City	1
+ KC - DEF No new player Notes	
+Houston	-
+ Hou - DEF No new player Notes	
+J.K. Dobbins	8
+ LAC - RB Player Note	
+Jordan Love	-
+ GB - QB Player Note	
+Amon-Ra St. Brown	32
+ Det - WR No new player Notes	
+Odell Beckham Jr.	2
+ Mia - WR PUP-P No new player Notes	
+Bijan Robinson	60
+ Atl - RB Player Note	
+Kyren Williams	-
+ LAR - RB No new player Notes	
+Cole Kmet	2
+ Chi - TE No new player Notes	
+Jerome Ford	-
+ Cle - RB Player Note	
+Gerald Everett	2
+ Chi - TE No new player Notes	
+Kyler Murray	5
+ Ari - QB No new player Notes	
+Keaton Mitchell	-
+ Bal - RB PUP-P No new player Notes	
+Alexander Mattison	27
+ LV - RB No new player Notes	
+Jonathan Mingo	1
+ Car - WR Player Note	
+Brandon McManus	1
+ Jax - K NA No new player Notes	
+Pittsburgh	-
+ Pit - DEF No new player Notes	
+Tank Dell	-
+ Hou - WR Player Note	
+Joe Burrow	5
+ Cin - QB Player Note	
+Brock Purdy	1
+ SF - QB No new player Notes	
+Brandon Aiyuk	14
+ SF - WR No new player Notes	
+DeVonta Smith	12
+ Phi - WR No new player Notes	
+Chuba Hubbard	-
+ Car - RB Player Note	
+Ezekiel Elliott	11
+ Dal - RB No new player Notes	
+Dallas Goedert	3
+ Phi - TE No new player Notes	
+Josh Downs	-
+ Ind - WR No new player Notes	
+Ty Chandler	-
+ Min - RB No new player Notes	
+Chris Godwin	2
+ TB - WR Player Note	
+Tyjae Spears	-
+ Ten - RB No new player Notes	
+Quentin Johnston	5
+ LAC - WR No new player Notes	
+Kenneth Gainwell	-
+ Phi - RB No new player Notes	
+Jason Sanders	1
+ Mia - K No new player Notes	
+Dallas	2
+ Dal - DEF No new player Notes	
+Green Bay	1
+ GB - DEF No new player Notes	
+Christian Watson	2
+ GB - WR No new player Notes	
+Tua Tagovailoa	5
+ Mia - QB Player Note	
+Calvin Ridley	2
+ Ten - WR No new player Notes	
+George Pickens	18
+ Pit - WR No new player Notes	
+Rachaad White	2
+ TB - RB Player Note	
+Tony Pollard	3
+ Ten - RB No new player Notes	
+Evan Engram	10
+ Jax - TE No new player Notes	
+Khalil Shakir	-
+ Buf - WR Player Note	
+Curtis Samuel	-
+ Buf - WR Player Note	
+Najee Harris	38
+ Pit - RB No new player Notes	
+Taylor Heinicke	-
+ Atl - QB No new player Notes	
+Tutu Atwell	-
+ LAR - WR Player Note	
+Deshaun Watson	2
+ Cle - QB Player Note	
+Matt Gay	-
+ Ind - K No new player Notes	
+Denver	-
+ Den - DEF No new player Notes	
+Isiah Pacheco	14
+ KC - RB Player Note	
+Nick Chubb	53
+ Cle - RB PUP-P Player Note	
+C.J. Stroud	-
+ Hou - QB Player Note	
+Stefon Diggs	54
+ Hou - WR No new player Notes	
+DJ Moore	20
+ Chi - WR Player Note	
+Joe Mixon	47
+ Hou - RB Q Player Note	
+Saquon Barkley	65
+ Phi - RB Player Note	
+George Kittle	20
+ SF - TE No new player Notes	
+James Cook	2
+ Buf - RB Player Note	
+De'Von Achane	11
+ Mia - RB New Player Note	
+DeAndre Hopkins	18
+ Ten - WR Q Player Note	
+Cooper Kupp	52
+ LAR - WR Player Note	
+Hollywood Brown	3
+ KC - WR Player Note	
+Romeo Doubs	2
+ GB - WR Player Note	
+Terry McLaurin	21
+ Was - WR No new player Notes	
+Tyler Bass	1
+ Buf - K No new player Notes	
+Miami	-
+ Mia - DEF No new player Notes
+Lamar Jackson	23
+ Bal - QB Player Note	
+Garrett Wilson	5
+ NYJ - WR No new player Notes	
+Tyler Lockett	12
+ Sea - WR No new player Notes	
+Breece Hall	29
+ NYJ - RB No new player Notes	
+Kenneth Walker III	26
+ Sea - RB No new player Notes	
+Jake Ferguson	-
+ Dal - TE No new player Notes	
+Zay Flowers	9
+ Bal - WR No new player Notes	
+K.J. Osborn	-
+ NE - WR No new player Notes	
+Zach Charbonnet	14
+ Sea - RB No new player Notes	
+Isaiah Likely	-
+ Bal - TE No new player Notes	
+Zay Jones	1
+ Ari - WR Player Note	
+Demarcus Robinson	-
+ LAR - WR Player Note	
+Jake Moody	1
+ SF - K No new player Notes	
+Greg Zuerlein	-
+ NYJ - K No new player Notes	
+New York	3
+ NYJ - DEF No new player Notes	
+Mike Williams	5
+ NYJ - WR PUP-P No new player Notes	
+Trevor Lawrence	6
+ Jax - QB No new player Notes	
+Deebo Samuel Sr.	8
+ SF - WR No new player Notes	
+Adam Thielen	1
+ Car - WR No new player Notes	
+Austin Ekeler	58
+ Was - RB No new player Notes	
+D'Andre Swift	16
+ Chi - RB Player Note	
+David Njoku	6
+ Cle - TE Player Note	
+DK Metcalf	24
+ Sea - WR No new player Notes	
+Jakobi Meyers	3
+ LV - WR No new player Notes	
+Logan Thomas	-
+ SF - TE Q Player Note	
+Antonio Gibson	9
+ NE - RB Player Note	
+Jayden Reed	1
+ GB - WR NA Player Note	
+Tyler Boyd	-
+ Ten - WR No new player Notes	
+Jake Elliott	2
+ Phi - K No new player Notes	
+Cleveland	-
+ Cle - DEF No new player Notes	
+Baltimore	1
+ Bal - DEF No new player Notes	
+	
+Stinkapotomus Jr.	
+Player	Player Salary
+Justin Herbert	13
+ LAC - QB Q Player Note	
+CeeDee Lamb	49
+ Dal - WR No new player Notes	
+Jordan Addison	7
+ Min - WR Player Note	
+Gus Edwards	1
+ LAC - RB Player Note	
+Jerick McKinnon	5
+ KC - RB NA No new player Notes	
+Kyle Pitts	9
+ Atl - TE No new player Notes	
+Gabe Davis	13
+ Jax - WR No new player Notes	
+Tee Higgins	23
+ Cin - WR No new player Notes	
+D'Onta Foreman	-
+ Cle - RB Q Player Note	
+Tank Bigsby	3
+ Jax - RB No new player Notes	
+Rhamondre Stevenson	20
+ NE - RB Player Note	
+Brian Robinson Jr.	2
+ Was - RB No new player Notes	
+Tyler Higbee	4
+ LAR - TE PUP-P No new player Notes	
+Riley Patterson	-
+ Was - K Player Note	
+Atlanta	-
+ Atl - DEF No new player Notes	
+Mark Andrews	26
+ Bal - TE No new player Notes	
+Aaron Rodgers	8
+ NYJ - QB Player Note	
+	
+fields of dreams	
+Player	Player Salary
+Justin Fields	3
+ Pit - QB Player Note	
+A.J. Brown	41
+ Phi - WR No new player Notes	
+Tyreek Hill	51
+ Mia - WR Player Note	
+Jahmyr Gibbs	38
+ Det - RB Player Note	
+James Conner	9
+ Ari - RB No new player Notes	
+Trey McBride	-
+ Ari - TE No new player Notes	
+Justin Jefferson	78
+ Min - WR No new player Notes	
+Wan'Dale Robinson	-
+ NYG - WR No new player Notes	
+Dameon Pierce	20
+ Hou - RB Player Note	
+Baker Mayfield	-
+ TB - QB No new player Notes	
+Elijah Moore	7
+ Cle - WR Q New Player Note	
+Jerry Jeudy	17
+ Cle - WR New Player Note	
+Justin Tucker	7
+ Bal - K No new player Notes	
+Tampa Bay	-
+ TB - DEF No new player Notes	
+Anthony Richardson	9
+ Ind - QB No new player Notes	
+Patrick Mahomes	38
+ KC - QB No new player Notes	
+Rashee Rice	-
+ KC - WR No new player Notes	
+Brandin Cooks	8
+ Dal - WR No new player Notes	
+Jaylen Warren	5
+ Pit - RB No new player Notes	
+David Montgomery	17
+ Det - RB Player Note	
+Travis Kelce	67
+ KC - TE No new player Notes	
+Devin Singletary	-
+ NYG - RB No new player Notes	
+Noah Brown	-
+ Hou - WR Q Player Note	
+Diontae Johnson	12
+ Car - WR No new player Notes	
+Amari Cooper	21
+ Cle - WR No new player Notes	
+Khalil Herbert	19
+ Chi - RB Player Note	
+Geno Smith	2
+ Sea - QB Q New Player Note	
+Brandon Aubrey	-
+ Dal - K No new player Notes	
+San Francisco	5
+ SF - DEF No new player Notes	
+Michael Thomas	2
+ NO - WR NA No new player Notes	
+Dak Prescott	6
+ Dal - QB No new player Notes	
+Drake London	15
+ Atl - WR Player Note	
+Davante Adams	60
+ LV - WR No new player Notes	
+Derrick Henry	57
+ Bal - RB No new player Notes	
+Chase Brown	-
+ Cin - RB Player Note	
+Dalton Kincaid	5
+ Buf - TE No new player Notes	
+Jaxon Smith-Njigba	6
+ Sea - WR No new player Notes	
+AJ Dillon	15
+ GB - RB Player Note	
+Nico Collins	-
+ Hou - WR No new player Notes	
+Jahan Dotson	2
+ Was - WR No new player Notes	
+Jared Goff	2
+ Det - QB No new player Notes	
+Jameson Williams	5
+ Det - WR Player Note	
+Wil Lutz	-
+ Den - K No new player Notes	
+New York	-
+ NYG - DEF No new player Notes	
+Buffalo	3
+ Buf - DEF No new player Notes	
+Christian Kirk	3
+ Jax - WR No new player Notes	
